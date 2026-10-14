@@ -13,10 +13,10 @@ title                    : "Mohammed A. Djehaf"
 title_separator          : "-"
 name                     : &name "Mohammed Abd El Djalil Djehaf"
 description              : &description "Academic website of Mohammed A. Djehaf, Associate Professor in Automatic Control and Electrical Engineering"
-url                      : https://USERNAME.github.io
+url                      : https://medaed89.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "USERNAME/USERNAME.github.io"
+repository               : "medaed89/medaed89.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Mohammed A. Djehaf"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Associate Professor (Class A) in Automatic Control and Electrical Engineering"
   location         : "Sidi Bel Abbès, Algeria"
   employer         : "Djillali Liabès University of Sidi Bel Abbès"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "USERNAME"
+  github           : "medaed89"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
