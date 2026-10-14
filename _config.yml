@@ -44,6 +44,8 @@ author:
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Mohammed-Djehaf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55818848600"
+  sciprofiles      : "https://sciprofiles.com/profile/mohammedaeddjehaf/publications"
+  webofscience     : "https://www.webofscience.com/wos/author/record/Y-6769-2019"
   zotero           : # URL
 
 
@@ -86,8 +88,6 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
   other:
     title: 'Datasets and Other Outputs'
 

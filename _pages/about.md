@@ -33,4 +33,4 @@ Selected recent publications
 * M. A. Djehaf, A. Hamet Sidi, Y. I. Djilani Kobibi (2026). Visual Servoing Sliding Mode Control with Vibration Model Compensation for Trajectory Tracking in a 2-DOF Ball Balancer System. *Vibration*, 9(1), 19. [DOI](https://doi.org/10.3390/vibration9010019)
 * A. Achar et al. (2024). Robust Lyapunov-Based Power Controllers with Integral Action for a Wind Farm. *Electric Power Components and Systems*. [DOI](https://doi.org/10.1080/15325008.2024.2311880)
 
-The full list is on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?user=TKBBz6IAAAAJ).
+Journal articles are listed on the [Publications](/publications/) page, conference papers on the [Talks](/talks/) page, and everything is also on [Google Scholar](https://scholar.google.com/citations?user=TKBBz6IAAAAJ).

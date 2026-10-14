@@ -1,11 +1,13 @@
 ---
 title: "Incorporating the UPFC in Large-Scale Power System for the Study of Power Flow and Voltage Profile"
 collection: talks
-type: "Conference presentation"
+type: "Conference paper"
 permalink: /talks/2015-incorporating-the-upfc-in-large-scale-power-system
 venue: "IMCAS"
 date: 2015-01-01
 location: "Salerno, Italy"
+excerpt: "Y. I. Djilani Kobibi, <b>M. A. Djehaf</b>"
+share: true
 ---
 **Authors:** Y. I. Djilani Kobibi, <b>M. A. Djehaf</b>
 
