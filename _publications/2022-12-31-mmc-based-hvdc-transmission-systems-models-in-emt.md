@@ -3,7 +3,7 @@ title: "MMC-Based HVDC Transmission Systems Models in EMT-Type Program"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-12-31-mmc-based-hvdc-transmission-systems-models-in-emt
-date: 2022-12-31
+date: 2022-12-31 23:43:00
 venue: "Journal Européen des Systèmes Automatisés, 55(6)"
 excerpt: "Y. I. Djilani Kobibi, <b>M. A. Djehaf</b>, M. Khatir"
 paperurl: "https://doi.org/10.18280/jesa.550606"

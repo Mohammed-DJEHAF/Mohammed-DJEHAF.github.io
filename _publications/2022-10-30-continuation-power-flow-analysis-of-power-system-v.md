@@ -3,7 +3,7 @@ title: "Continuation Power Flow Analysis of Power System Voltage Stability with 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-10-30-continuation-power-flow-analysis-of-power-system-v
-date: 2022-10-30
+date: 2022-10-30 23:42:00
 venue: "Journal of Intelligent Systems and Control, 1(1)"
 excerpt: "Y. I. Djilani Kobibi, <b>M. A. Djehaf</b>, M. Khatir, M. Ouadafraksou"
 paperurl: "https://doi.org/10.56578/jisc010106"

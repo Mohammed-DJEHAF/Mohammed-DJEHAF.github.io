@@ -3,7 +3,7 @@ title: "AC Versus DC Link Comparison Based on Power Flow Analysis of a Multimach
 collection: publications
 category: manuscripts
 permalink: /publication/2014-01-01-ac-versus-dc-link-comparison-based-on-power-flow-a
-date: 2014-01-01
+date: 2014-01-01 23:35:00
 venue: "Leonardo Journal of Sciences, 24, 61–74"
 excerpt: "<b>M. A. Djehaf</b>, S. A. Zidi, Y. Djilani Kobibi"
 paperurl: "https://ljs.academicdirect.org/A24/061_074.htm"

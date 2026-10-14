@@ -3,7 +3,7 @@ title: "Study of UPFC Optimal Location Considering Loss Reduction and Improvemen
 collection: publications
 category: manuscripts
 permalink: /publication/2014-01-01-study-of-upfc-optimal-location-considering-loss-re
-date: 2014-01-01
+date: 2014-01-01 23:34:00
 venue: "Leonardo Journal of Sciences, 24, 85–100"
 excerpt: "Y. I. Djilani Kobibi, S. Hadjeri, <b>M. A. Djehaf</b>"
 paperurl: "https://ljs.academicdirect.org/A24/085_100.pdf"

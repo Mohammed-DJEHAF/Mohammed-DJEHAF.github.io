@@ -3,7 +3,7 @@ title: "Lyapunov-Based Robust Power Controllers for a Wind Farm Using Parallel M
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-07-lyapunov-based-robust-power-controllers-for-a-wind
-date: 2023-04-07
+date: 2023-04-07 23:44:00
 venue: "Przegląd Elektrotechniczny, 99(4), 247–254"
 excerpt: "A. Achar, Y. Djeriri, A. Bentaallah, S. Hanafi, <b>M. A. Djehaf</b>, R. Bouddou"
 paperurl: "https://doi.org/10.15199/48.2023.04.43"

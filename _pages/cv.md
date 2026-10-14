@@ -15,7 +15,7 @@ Positions
 ======
 * **Since June 2024**: Head of the Automatic Control programme, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès
 * **Since November 2022**: Associate Professor (Class A), Department of Automatic Control, Djillali Liabès University of Sidi Bel Abbès
-* **December 2017 – October 2022**: Lecturer-researcher, Department of Automatic Control (Assistant Professor Class B, then Associate Professor Class B)
+* **December 2017 – October 2022**: Lecturer-researcher, Department of Automatic Control, Djillali Liabès University of Sidi Bel Abbès (Assistant Professor Class B, then Associate Professor Class B)
 * **2012 – 2017**: Part-time lecturer, Department of Electrotechnics, Djillali Liabès University of Sidi Bel Abbès
 
 Education

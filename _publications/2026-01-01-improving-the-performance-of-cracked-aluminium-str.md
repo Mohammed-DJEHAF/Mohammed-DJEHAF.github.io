@@ -3,7 +3,7 @@ title: "Improving the performance of cracked aluminium structures using composit
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-improving-the-performance-of-cracked-aluminium-str
-date: 2026-01-01
+date: 2026-01-01 23:53:00
 venue: "The International Journal of Advanced Manufacturing Technology"
 excerpt: "M. A. Bouchelarm, <b>M. A. Djehaf</b>, A. Boulenouar, M. Chafi, N. Benseddiq<br/><i>Collaboration: University of Lille (Unité de Mécanique de Lille), France.</i>"
 paperurl: "https://doi.org/10.1007/s00170-025-17194-z"

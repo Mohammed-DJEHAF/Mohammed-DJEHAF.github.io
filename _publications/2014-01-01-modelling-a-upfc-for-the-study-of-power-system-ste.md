@@ -3,7 +3,7 @@ title: "Modelling a UPFC for the Study of Power System Steady State and Transien
 collection: publications
 category: manuscripts
 permalink: /publication/2014-01-01-modelling-a-upfc-for-the-study-of-power-system-ste
-date: 2014-01-01
+date: 2014-01-01 23:32:00
 venue: "International Journal of Advanced Engineering and Science, 3(1)"
 excerpt: "Y. I. Djilani Kobibi, S. Hadjeri, <b>M. A. Djehaf</b>"
 paperurl: "https://ijaes.elitehall.com/Vol3No1.pdf"

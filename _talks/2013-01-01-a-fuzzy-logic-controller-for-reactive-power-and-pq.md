@@ -1,0 +1,11 @@
+---
+title: "A Fuzzy Logic Controller for Reactive Power and PQ Bus Voltage Control"
+collection: talks
+type: "Conference paper"
+permalink: /talks/2013-01-01-a-fuzzy-logic-controller-for-reactive-power-and-pq
+venue: "EPECS"
+date: 2013-01-01 23:26:00
+location: "Istanbul, Turkey"
+share: true
+---
+**Link:** [https://www.webofscience.com/wos/woscc/full-record/WOS:000345894400012](https://www.webofscience.com/wos/woscc/full-record/WOS:000345894400012)

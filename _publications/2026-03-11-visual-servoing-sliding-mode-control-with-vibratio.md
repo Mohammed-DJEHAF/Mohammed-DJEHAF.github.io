@@ -3,7 +3,7 @@ title: "Visual Servoing Sliding Mode Control with Vibration Model Compensation f
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-11-visual-servoing-sliding-mode-control-with-vibratio
-date: 2026-03-11
+date: 2026-03-11 23:55:00
 venue: "Vibration, 9(1), 19"
 excerpt: "<b>M. A. Djehaf</b>, A. Hamet Sidi, Y. I. Djilani Kobibi"
 paperurl: "https://doi.org/10.3390/vibration9010019"

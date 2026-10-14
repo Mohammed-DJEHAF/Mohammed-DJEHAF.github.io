@@ -3,7 +3,7 @@ title: "Industrial Electrical Networks"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/industrial-electrical-networks
-venue: "Djillali Liabès University of Sidi Bel Abbès, Faculty of Electrical Engineering"
+venue: "Department of Automatic Control, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès"
 date: 2023-09-01
 location: "Sidi Bel Abbès, Algeria"
 ---

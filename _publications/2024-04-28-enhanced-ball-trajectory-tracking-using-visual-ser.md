@@ -3,7 +3,7 @@ title: "Enhanced Ball Trajectory Tracking Using Visual Servoing with 2-DOF Ball 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-28-enhanced-ball-trajectory-tracking-using-visual-ser
-date: 2024-04-28
+date: 2024-04-28 23:50:00
 venue: "Journal Européen des Systèmes Automatisés, 57(2)"
 excerpt: "A. Hamet Sidi, <b>M. A. Djehaf</b>, Y. I. Djilani Kobibi"
 paperurl: "https://doi.org/10.18280/jesa.570210"

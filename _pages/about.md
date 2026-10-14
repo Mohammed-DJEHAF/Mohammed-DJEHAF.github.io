@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (Class A) in the Department of Automatic Control, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès (Algeria), where I have led the Automatic Control programme since June 2024. I am a member of the ICEPS laboratory (*Intelligent Control and Electrical Power Systems*).
+I am an Associate Professor (Class A) in the Department of Automatic Control, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès (Algeria), and Head of its Automatic Control programme since June 2024. I am a member of the ICEPS laboratory (*Intelligent Control and Electrical Power Systems*).
 
-I received my PhD in Electrical Engineering from Djillali Liabès University of Sidi Bel Abbès in 2017, part of which was carried out at the Montefiore Institute of the University of Liège (Belgium) in the team of Prof. Damien Ernst.
+I received my PhD in Electrical Engineering from Djillali Liabès University of Sidi Bel Abbès in 2017. Part of the work was carried out at the Montefiore Institute, University of Liège (Belgium), in the research group of Prof. Damien Ernst.
 
 Research interests
 ======
 * High-voltage direct-current (HVDC) transmission, modular multilevel converters and multi-terminal DC grids
-* FACTS devices and the integration of wind and photovoltaic power
+* FACTS devices and the integration of wind and photovoltaic generation
 * Physics-informed neural networks (PINNs) and graph neural networks for energy systems and building physics
 * State-of-charge estimation of battery storage systems
 * Robust, nonlinear and intelligent control (sliding mode, fuzzy logic, reinforcement learning)
@@ -25,7 +25,7 @@ Collaborations
 * **IRC-ESTP, Cachan, France**: physics-informed machine learning for smart grids, battery racks and heat and mass transfer in bio-based walls.
 * **ESTACA'Lab, France**: thermal management of power-electronics modules for electric vehicles, including a co-supervised PhD thesis.
 * **University of Liège, Belgium**: smart electrical grids and energy systems (Montefiore Institute).
-* **University of Lille, France**: neural-network modelling of fracture mechanics and composite repairs.
+* **University of Lille, France**: neural-network modelling of fracture mechanics and composite patch repairs.
 
 Selected recent publications
 ======

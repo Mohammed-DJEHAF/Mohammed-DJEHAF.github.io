@@ -3,7 +3,7 @@ title: "A deep residual graph convolutional neural network for hybrid physics da
 collection: publications
 category: manuscripts
 permalink: /publication/2026-09-01-a-deep-residual-graph-convolutional-neural-network
-date: 2026-09-01
+date: 2026-09-01 23:58:00
 venue: "Applied Thermal Engineering"
 excerpt: "<b>M. A. Djehaf</b>, M.-H. Benzaama, A. Boudenne, K. Benzarti<br/><i>Collaboration: IRC-ESTP, Cachan, France.</i>"
 paperurl: "https://doi.org/10.1016/j.applthermaleng.2026.132512"

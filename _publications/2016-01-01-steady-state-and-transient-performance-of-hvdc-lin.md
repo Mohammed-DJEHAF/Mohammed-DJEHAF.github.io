@@ -3,7 +3,7 @@ title: "Steady-state and transient performance of HVDC link based 3-level VSC su
 collection: publications
 category: manuscripts
 permalink: /publication/2016-01-01-steady-state-and-transient-performance-of-hvdc-lin
-date: 2016-01-01
+date: 2016-01-01 23:38:00
 venue: "Synthèse, 31, 80–89"
 excerpt: "<b>M. A. Djehaf</b>, S. A. Zidi, S. Hadjeri, Y. Djilani Kobibi"
 paperurl: "https://asjp.cerist.dz/en/article/41462"

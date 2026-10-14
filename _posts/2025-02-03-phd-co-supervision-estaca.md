@@ -4,4 +4,4 @@ date: 2025-02-03
 permalink: /posts/2025/02/phd-co-supervision-estaca/
 ---
 
-Mohammed Walid Omari started his PhD at Université Paris-Saclay (ESTACA'Lab, S2ET team), directed by Cherif Larouci, which I co-supervise. The thesis deals with the electrothermal modelling and thermal management of the power electronics of an electric-vehicle traction chain.
+In February 2025, Mohammed Walid Omari began a PhD at Université Paris-Saclay, hosted by ESTACA'Lab (S2ET team) and directed by Cherif Larouci. I co-supervise the thesis, which addresses the electrothermal modelling and thermal management of the power electronics in an electric-vehicle traction chain.

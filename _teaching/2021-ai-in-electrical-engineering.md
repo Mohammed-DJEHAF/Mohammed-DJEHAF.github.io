@@ -3,7 +3,7 @@ title: "Applications of Artificial Intelligence in Electrical Engineering: Neura
 collection: teaching
 type: "Doctoral course"
 permalink: /teaching/ai-in-electrical-engineering
-venue: "Djillali Liabès University of Sidi Bel Abbès, Faculty of Electrical Engineering"
+venue: "Department of Automatic Control, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès"
 date: 2021-09-01
 location: "Sidi Bel Abbès, Algeria"
 ---
