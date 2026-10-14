@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="Helvetica, Arial, sans-serif">
+  <title>Research overview</title>
+  <rect width="760" height="440" rx="14" fill="#f3f6fa"/>
+  <g stroke="#7f95ad" stroke-width="2" fill="none">
+    <line x1="380" y1="220" x2="165" y2="75"/><line x1="380" y1="220" x2="595" y2="75"/>
+    <line x1="380" y1="220" x2="120" y2="220"/><line x1="380" y1="220" x2="640" y2="220"/>
+    <line x1="380" y1="220" x2="165" y2="365"/><line x1="380" y1="220" x2="595" y2="365"/>
+  </g>
+  <circle cx="380" cy="220" r="78" fill="#18304c"/>
+  <text x="380" y="210" text-anchor="middle" fill="#fff" font-size="17" font-weight="bold">Sustainable</text>
+  <text x="380" y="233" text-anchor="middle" fill="#fff" font-size="17" font-weight="bold">energy systems</text>
+  <g fill="#fff" stroke="#18304c" stroke-width="2">
+    <rect x="45" y="40" width="240" height="70" rx="10"/><rect x="475" y="40" width="240" height="70" rx="10"/>
+    <rect x="10" y="185" width="220" height="70" rx="10"/><rect x="530" y="185" width="220" height="70" rx="10"/>
+    <rect x="45" y="330" width="240" height="70" rx="10"/><rect x="475" y="330" width="240" height="70" rx="10"/>
+  </g>
+  <g fill="#18304c" text-anchor="middle" font-size="15" font-weight="bold">
+    <text x="165" y="70">HVDC, MMC and FACTS</text><text x="595" y="70">Physics-informed AI</text>
+    <text x="120" y="215">Batteries and storage</text><text x="640" y="215">Control and optimisation</text>
+    <text x="165" y="360">Real-time simulation</text><text x="595" y="360">Water-energy-food nexus</text>
+  </g>
+  <g fill="#43566b" text-anchor="middle" font-size="12.5">
+    <text x="165" y="92">transmission and power electronics</text><text x="595" y="92">PINN, GNN, heat and moisture transfer</text>
+    <text x="120" y="237">state of charge, smart-grid platform</text><text x="640" y="237">sliding mode, fuzzy, Lyapunov, RL</text>
+    <text x="165" y="382">RT-LAB / OPAL-RT, hardware-in-the-loop</text><text x="595" y="382">renewable integration, SDGs, climate</text>
+  </g>
+</svg>

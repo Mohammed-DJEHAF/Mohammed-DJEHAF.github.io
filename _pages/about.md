@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Mohammed Abd El Djalil Djehaf"
+title: "Mohammed Abdeldjalil Djehaf"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+[Français](/fr/)
 
 I am an Associate Professor (Class A) in the Department of Automatic Control, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès (Algeria), and Head of its Automatic Control programme since June 2024. I am a member of the ICEPS laboratory (*Intelligent Control and Electrical Power Systems*).
 
@@ -32,5 +34,9 @@ Selected recent publications
 * M. A. Djehaf, M.-H. Benzaama, A. Boudenne, K. Benzarti (2026). A deep residual graph convolutional neural network for hybrid physics data-driven modelling of latent heat transfer in cement mortar walls filled with bio-based phase change materials. *Applied Thermal Engineering*. [DOI](https://doi.org/10.1016/j.applthermaleng.2026.132512)
 * M. A. Djehaf, A. Hamet Sidi, Y. I. Djilani Kobibi (2026). Visual Servoing Sliding Mode Control with Vibration Model Compensation for Trajectory Tracking in a 2-DOF Ball Balancer System. *Vibration*, 9(1), 19. [DOI](https://doi.org/10.3390/vibration9010019)
 * A. Achar et al. (2024). Robust Lyapunov-Based Power Controllers with Integral Action for a Wind Farm. *Electric Power Components and Systems*. [DOI](https://doi.org/10.1080/15325008.2024.2311880)
+
+Open to collaboration
+======
+I welcome scientific collaboration with researchers and institutions worldwide, in particular on sustainable development, renewable-energy integration and the water–energy–food nexus. See [Collaborations](/collaborations/) or [contact me](mailto:mohammed.djehaf@univ-sba.dz).
 
 Journal articles are listed on the [Publications](/publications/) page, conference papers on the [Talks](/talks/) page, and everything is also on [Google Scholar](https://scholar.google.com/citations?user=TKBBz6IAAAAJ).

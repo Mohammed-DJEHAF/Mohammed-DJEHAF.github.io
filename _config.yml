@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mohammed A. Djehaf"
+title                    : "Mohammed Abdeldjalil Djehaf"
 title_separator          : "-"
-name                     : &name "Mohammed Abd El Djalil Djehaf"
-description              : &description "Academic website of Mohammed A. Djehaf, Associate Professor in Automatic Control and Electrical Engineering"
+name                     : &name "Mohammed Abdeldjalil Djehaf"
+description              : &description "Academic website of Mohammed Abdeldjalil Djehaf, Associate Professor in Automatic Control and Electrical Engineering"
 url                      : https://mohammed-djehaf.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "Mohammed-DJEHAF/Mohammed-DJEHAF.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Mohammed A. Djehaf"
+  name             : "Mohammed Abdeldjalil Djehaf"
   pronouns         : "he/him"
   bio              : "Associate Professor (Class A) in Automatic Control and Electrical Engineering"
   location         : "Sidi Bel Abbès, Algeria"
