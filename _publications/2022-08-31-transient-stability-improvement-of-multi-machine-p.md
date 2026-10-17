@@ -3,7 +3,7 @@ title: "Transient Stability Improvement of Multi Machine Power System Including 
 collection: publications
 category: manuscripts
 permalink: /publication/2022-08-31-transient-stability-improvement-of-multi-machine-p
-date: 2022-08-31 23:41:00
+date: 2022-08-31 23:40:00
 venue: "Journal Européen des Systèmes Automatisés, 55(4)"
 excerpt: "<b>M. A. Djehaf</b>, Y. I. Djilani Kobibi, M. Khatir, M. Ouadafraksou"
 paperurl: "https://doi.org/10.18280/jesa.550407"

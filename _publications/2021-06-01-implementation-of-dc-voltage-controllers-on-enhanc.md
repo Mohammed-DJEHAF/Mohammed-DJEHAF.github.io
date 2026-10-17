@@ -3,7 +3,7 @@ title: "Implementation of DC voltage controllers on enhancing the stability of m
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-01-implementation-of-dc-voltage-controllers-on-enhanc
-date: 2021-06-01 23:40:00
+date: 2021-06-01 23:39:00
 venue: "International Journal of Electrical and Computer Engineering, 11(3)"
 excerpt: "M. Belgacem, M. Khatir, <b>M. A. Djehaf</b>, S. A. Zidi, R. Bouddou"
 paperurl: "https://doi.org/10.11591/ijece.v11i3.pp1894-1904"

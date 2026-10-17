@@ -3,7 +3,7 @@ title: "Dynamic Performance of High-Voltage Direct Current Systems for Offshore 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-29-dynamic-performance-of-high-voltage-direct-current
-date: 2023-08-29 23:45:00
+date: 2023-08-29 23:44:00
 venue: "WSEAS Transactions on Power Systems, 18"
 excerpt: "<b>M. A. Djehaf</b>, Y. I. Djilani Kobibi, M. Khatir"
 paperurl: "https://doi.org/10.37394/232016.2023.18.12"

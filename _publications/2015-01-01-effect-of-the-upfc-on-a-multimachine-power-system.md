@@ -3,7 +3,7 @@ title: "Effect of the UPFC on a multimachine power system steady state and dynam
 collection: publications
 category: manuscripts
 permalink: /publication/2015-01-01-effect-of-the-upfc-on-a-multimachine-power-system
-date: 2015-01-01 23:37:00
+date: 2015-01-01 23:36:00
 venue: "Journal of Electrical Engineering, 15(4), 283–288"
 excerpt: "Y. I. Djilani Kobibi, S. Hadjeri, <b>M. A. Djehaf</b>"
 paperurl: "https://www.researchgate.net/publication/288499364_Effect_of_the_UPFC_on_a_multimachine_power_system_steady_state_and_dynmanic_performance"

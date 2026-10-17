@@ -3,7 +3,7 @@ title: "Temperature seasonality and spatially structured variation in cutaneous 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-10-01-temperature-seasonality-and-spatially-structured-v
-date: 2026-10-01 23:59:00
+date: 2026-10-01 23:58:00
 venue: "Acta Tropica, 108366"
 excerpt: "K. Djehaf, <b>M. A. Djehaf</b>"
 paperurl: "https://doi.org/10.1016/j.actatropica.2026.108366"

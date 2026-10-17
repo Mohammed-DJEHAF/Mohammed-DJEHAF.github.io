@@ -3,7 +3,7 @@ title: "Enhanced control of DFIG-based wind turbine using hybrid fuzzy super-twi
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-enhanced-control-of-dfig-based-wind-turbine-using
-date: 2026-01-01 23:54:00
+date: 2026-01-01 23:53:00
 venue: "Journal of Engineering and Technology for Industrial Applications"
 excerpt: "A. Feddaoui, L. Farah, A. Benretem, <b>M. A. Djehaf</b>, Y. Djeriri"
 paperurl: "https://doi.org/10.5935/jetia.v12i57.2920"

@@ -3,7 +3,7 @@ title: "Experimental and Statistical Optimization of Electrostatic Separation Us
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-experimental-and-statistical-optimization-of-elect
-date: 2024-01-01 23:47:00
+date: 2024-01-01 23:46:00
 venue: "Journal of Electrical Systems, 20(9s)"
 excerpt: "R. Sayah, H. Boudra, K. Djehaf, <b>M. A. Djehaf</b>"
 paperurl: "https://journal.esrgroups.org/jes/article/view/7329"

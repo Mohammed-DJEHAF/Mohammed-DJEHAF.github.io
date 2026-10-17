@@ -3,7 +3,7 @@ title: "A novel rule based control method for hierarchical wind farm power manag
 collection: publications
 category: manuscripts
 permalink: /publication/2026-08-22-a-novel-rule-based-control-method-for-hierarchical
-date: 2026-08-22 23:56:00
+date: 2026-08-22 23:55:00
 venue: "Energy Reports"
 excerpt: "A. Feddaoui, <b>M. A. Djehaf</b>"
 paperurl: "https://doi.org/10.1016/j.egyr.2026.109599"

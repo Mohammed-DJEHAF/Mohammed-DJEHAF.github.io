@@ -3,7 +3,7 @@ title: "Temperature seasonality and spatial confounding of cutaneous leishmanias
 collection: publications
 category: other
 permalink: /publication/2026-01-01-temperature-seasonality-and-spatial-confounding-of
-date: 2026-01-01 23:52:00
+date: 2026-01-01 23:51:00
 venue: "Zenodo (dataset and reproducibility code)"
 excerpt: "K. Djehaf, <b>M. A. Djehaf</b>"
 paperurl: "https://doi.org/10.5281/zenodo.21813194"

@@ -3,7 +3,7 @@ title: "Investigating Multi-Needle Electrode Configurations for Improved Corona 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-investigating-multi-needle-electrode-configuration
-date: 2024-01-01 23:48:00
+date: 2024-01-01 23:47:00
 venue: "Journal of Electrical Systems, 20(9s)"
 excerpt: "H. Boudra, R. Sayah, K. Djehaf, <b>M. A. Djehaf</b>, A. Benaissa"
 paperurl: "https://journal.esrgroups.org/jes/article/view/7328"

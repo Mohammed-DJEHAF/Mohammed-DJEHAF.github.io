@@ -3,7 +3,7 @@ title: "Research document 7-R62.131"
 collection: publications
 category: other
 permalink: /publication/2015-01-01-research-document-7-r62-131
-date: 2015-01-01 23:36:00
+date: 2015-01-01 23:35:00
 venue: "ResearchGate deposit"
 excerpt: "<b>M. A. Djehaf</b>, S. A. Zidi, M. Khatir, S. Hadjeri, Y. Djilani Kobibi"
 paperurl: "https://doi.org/10.13140/RG.2.1.2924.4240"

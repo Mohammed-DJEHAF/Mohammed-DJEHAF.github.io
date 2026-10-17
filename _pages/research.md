@@ -30,9 +30,9 @@ Selected work: [A comparative analysis of cooling techniques for IGBT power modu
 
 ## Sustainability, climate and the water–energy–food nexus
 Integration of renewable energy into power systems, climate-resilient water supply and data-driven analysis of climate–health relationships.
-Selected work: [Temperature seasonality and spatially structured variation in cutaneous leishmaniasis in Algeria](https://doi.org/10.1016/j.actatropica.2026.108366) (*Acta Tropica*, 2026); [Optimized climate-resilient desalination for Algeria's 2030 water strategy](https://sciforum.net/paper/view/27610) (2025).
+Selected work: [A hierarchical ASM1 calibration framework under limited data conditions: application to a municipal WWTP in Algeria](https://doi.org/10.2166/wpt.2026.506) (*Water Practice and Technology*, 2026); [Temperature seasonality and spatially structured variation in cutaneous leishmaniasis in Algeria](https://doi.org/10.1016/j.actatropica.2026.108366) (*Acta Tropica*, 2026); [Optimized climate-resilient desalination for Algeria's 2030 water strategy](https://sciforum.net/paper/view/27610) (2025).
 
 ## Output
 <img src="/images/publications_per_year.svg" alt="Bar chart of journal articles and conference papers per year" style="width:100%; max-width:760px; display:block; margin:1em auto;">
 
-28 journal articles and datasets and 41 conference papers, listed on the [Publications](/publications/) and [Talks](/talks/) pages.
+29 journal articles and datasets and 41 conference papers, listed on the [Publications](/publications/) and [Talks](/talks/) pages.

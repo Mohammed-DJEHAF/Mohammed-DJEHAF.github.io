@@ -3,7 +3,7 @@ title: "Enhancing power control in doubly fed induction generator based wind tur
 collection: publications
 category: manuscripts
 permalink: /publication/2023-12-01-enhancing-power-control-in-doubly-fed-induction-ge
-date: 2023-12-01 23:46:00
+date: 2023-12-01 23:45:00
 venue: "The Scientific Bulletin of Electrical Engineering Faculty"
 excerpt: "A. Feddaoui, L. Farah, A. Benretem, <b>M. A. Djehaf</b>, Z. Bouguerra, Y. Djeriri"
 paperurl: "https://doi.org/10.2478/sbeef-2023-0018"
