@@ -2,8 +2,8 @@
 title: "Temperature seasonality and spatially structured variation in cutaneous leishmaniasis in Algeria: A source-verified national panel, 2000–2024"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-10-01-temperature-seasonality-and-spatially-structured-v
-date: 2026-10-01 23:58:00
+permalink: /publication/2026-11-01-temperature-seasonality-and-spatially-structured-v
+date: 2026-11-01 23:58:00
 venue: "Acta Tropica, 108366"
 excerpt: "K. Djehaf, <b>M. A. Djehaf</b>"
 paperurl: "https://doi.org/10.1016/j.actatropica.2026.108366"

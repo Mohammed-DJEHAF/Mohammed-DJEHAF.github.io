@@ -26,7 +26,7 @@ Collaborations
 * **Université de Liège (Belgique)** : réseaux électriques intelligents et systèmes énergétiques (Institut Montefiore).
 * **Université de Lille (France)** : modélisation de la mécanique de la rupture par réseaux de neurones et réparations par patchs composites.
 
-Je suis **ouvert à toute collaboration scientifique**, en particulier autour des Objectifs de développement durable (ODD), de l'intégration des énergies renouvelables et du nexus eau–énergie–alimentation. [Voir la page Collaborations](/collaborations/) ou [me contacter](mailto:mohammed.djehaf@univ-sba.dz).
+Je suis **ouvert à toute collaboration scientifique**, en particulier autour des Objectifs de développement durable (ODD), de l'intégration des énergies renouvelables et du nexus eau–énergie–alimentation. [Voir la page Collaborations](/collaborations/) ou me contacter par e-mail : [mohamed.djehaf@univ-sba.dz](mailto:mohamed.djehaf@univ-sba.dz) ou [med_djehaf@yahoo.com](mailto:med_djehaf@yahoo.com).
 
 Publications récentes
 ======

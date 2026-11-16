@@ -37,6 +37,6 @@ Selected recent publications
 
 Open to collaboration
 ======
-I welcome scientific collaboration with researchers and institutions worldwide, in particular on sustainable development, renewable-energy integration and the water–energy–food nexus. See [Collaborations](/collaborations/) or [contact me](mailto:mohammed.djehaf@univ-sba.dz).
+I welcome scientific collaboration with researchers and institutions worldwide, in particular on sustainable development, renewable-energy integration and the water–energy–food nexus. See [Collaborations](/collaborations/) or contact me at [mohamed.djehaf@univ-sba.dz](mailto:mohamed.djehaf@univ-sba.dz) or [med_djehaf@yahoo.com](mailto:med_djehaf@yahoo.com).
 
 Journal articles are listed on the [Publications](/publications/) page, conference papers on the [Talks](/talks/) page, and everything is also on [Google Scholar](https://scholar.google.com/citations?user=TKBBz6IAAAAJ).

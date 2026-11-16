@@ -8,7 +8,9 @@ author_profile: true
 
 I welcome scientific collaboration with researchers, laboratories and institutions worldwide: joint research projects, co-supervision of PhD and master's students, exchange visits and joint funding applications. I am particularly interested in work that supports the **United Nations Sustainable Development Goals (SDGs)**, in particular **sustainable development**, the **integration of renewable energy** into power systems, and the **water–energy–food (WEF) nexus**.
 
-<p><a class="btn btn--primary" href="mailto:mohammed.djehaf@univ-sba.dz?subject=Scientific%20collaboration">Contact me</a></p>
+<p><a class="btn btn--primary" href="mailto:mohamed.djehaf@univ-sba.dz?subject=Scientific%20collaboration">Contact me</a></p>
+
+Email: [mohamed.djehaf@univ-sba.dz](mailto:mohamed.djehaf@univ-sba.dz) (university) · [med_djehaf@yahoo.com](mailto:med_djehaf@yahoo.com) (personal)
 
 ## Partner institutions
 

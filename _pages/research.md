@@ -10,7 +10,7 @@ My research aims at **reliable, sustainable energy systems**: from high-voltage 
 
 ## HVDC transmission, modular multilevel converters and FACTS
 Modelling, control and dynamic performance of VSC- and MMC-based HVDC links, multi-terminal DC grids (DC voltage droop and margin control) and UPFC-based power-flow control, including electromagnetic-transient (EMT) models.
-Selected work: [MMC-based HVDC transmission systems models in EMT-type program](https://doi.org/10.18280/jesa.550606) (2022); [Implementation of DC voltage controllers on enhancing the stability of multi-terminal DC grids](https://doi.org/10.11591/ijece.v11i3.pp1894-1904) (2021).
+Selected work: [Internal-energy regulation in grid-forming MMC-HVDC: a factorial study across weak-to-strong AC grids](https://doi.org/10.1016/j.nxener.2026.101183) (*Next Energy*, 2026); [MMC-based HVDC transmission systems models in EMT-type program](https://doi.org/10.18280/jesa.550606) (2022); [Implementation of DC voltage controllers on enhancing the stability of multi-terminal DC grids](https://doi.org/10.11591/ijece.v11i3.pp1894-1904) (2021).
 
 ## Physics-informed machine learning
 Physics-informed neural networks (PINNs) and graph neural networks for coupled heat and mass transfer in bio-based walls, with the Institut de recherche de la construction (IRC-ESTP), and neural-network modelling of fracture mechanics with the University of Lille.
@@ -35,4 +35,4 @@ Selected work: [A hierarchical ASM1 calibration framework under limited data con
 ## Output
 <img src="/images/publications_per_year.svg" alt="Bar chart of journal articles and conference papers per year" style="width:100%; max-width:760px; display:block; margin:1em auto;">
 
-29 journal articles and datasets and 41 conference papers, listed on the [Publications](/publications/) and [Talks](/talks/) pages.
+30 journal articles and datasets and 41 conference papers, listed on the [Publications](/publications/) and [Talks](/talks/) pages.

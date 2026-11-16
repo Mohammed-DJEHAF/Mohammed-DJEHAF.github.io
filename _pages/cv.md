@@ -11,6 +11,8 @@ redirect_from:
 
 Download the full CV: [English (PDF)](/files/CV_Djehaf_EN.pdf) · [Français (PDF)](/files/CV_Djehaf_FR.pdf)
 
+Contact: [mohamed.djehaf@univ-sba.dz](mailto:mohamed.djehaf@univ-sba.dz) · [med_djehaf@yahoo.com](mailto:med_djehaf@yahoo.com)
+
 Positions
 ======
 * **Since June 2024**: Head of the Automatic Control programme, Faculty of Electrical Engineering, Djillali Liabès University of Sidi Bel Abbès
