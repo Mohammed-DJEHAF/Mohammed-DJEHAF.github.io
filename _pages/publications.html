@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% assign latest_pubs = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
+{% assign latest = latest_pubs.first %}
+{% if latest %}
+<div class="latest-publication" style="border-left:4px solid #18304c; background:rgba(127,127,127,.12); padding:.8em 1em; margin:0 0 1.5em;">
+  <strong>Latest publication</strong><br>
+  <a href="{{ latest.url | relative_url }}">{{ latest.title }}</a><br>
+  <em>{{ latest.venue }}</em>, {{ latest.date | date: "%Y" }}{% if latest.paperurl %} &middot; <a href="{{ latest.paperurl }}">View paper</a>{% endif %}
+</div>
+{% endif %}
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
